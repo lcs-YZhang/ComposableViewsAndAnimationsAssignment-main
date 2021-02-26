@@ -37,7 +37,7 @@ struct CustomComposableDescriptionView: View {
                     
                 }
                 .padding(.bottom)
-                
+            
             }
             
             NavigationLink(destination: CustomComposableDescriptionView(fillToValue: scorePercent)) {
